@@ -7,7 +7,7 @@ Mql4 bot for metatrader 4 that checks other bots activity in a range of time to 
 -    magic: the magic nuber of the bot you want to watch over
 -    minutes_between_alerts: the time span between alerts (1 hour recomended)
 
-## instructions
+## Instructions
 
 1.-    On your telegram account, send "\start" to @userinfobot . You should get back something like this:
 
@@ -32,3 +32,4 @@ The Id number will be your chat id.
 -    minutes_between_alerts: $\geq 60$
 
 
+The code is in WatchdogTBot.mq4 if you want to make changes
